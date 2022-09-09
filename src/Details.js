@@ -38,7 +38,7 @@ export const personalDetails = {
   name: "Neeraj Kumar",
   tagline: "I build things for web application.",
   img: profile,
-  about: `Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.`,
+  about: `My name is Neeraj Kumar having 4+ experience in Node.JS, Golang, AWS,Docker, Vue JS,React JS(NextJS) ,MongoDB, Postgress, MySQL, JavaScript, HTML, CSS, etc. I have worked on around 15+ projects. I love programming, and coding and most of my time goes into learning the best ways to write clean code.`,
 };
 
 // Enter your Social Media URLs here
@@ -52,44 +52,37 @@ export const socialMediaUrl = {
 // Enter your Work Experience here
 export const workDetails = [
   {
-    Position: "Frontend Web Developer",
-    Company: `Company Name here`,
-    Location: "Bengaluru",
+    Position: "Full Stack Developer",
+    Company: "Scoreplus",
+    Location: "Nodia",
     Type: "Full Time",
-    Duration: "Sep 2021 - Dec 2021",
+    Duration: "March 2022",
   },
   {
-    Position: "Internship",
-    Company: `Company Name here`,
+    Position: "Software Developers",
+    Company: "Kurlon Enterprise Ltd.",
     Location: "Bengaluru",
     Type: "Internship",
-    Duration: "Sep 2021 - Dec 2021",
+    Duration: "July 2020 - Fab 2022",
   },
   {
-    Position: "Internship",
-    Company: `Company Name here`,
-    Location: "Bengaluru",
-    Type: "Internship",
-    Duration: "Sep 2021 - Dec 2021",
+    Position: "Software Developers",
+    Company: "Spineor",
+    Location: "Mohali",
+    Type: "Full Time",
+    Duration: "Oct 2018 - July 2020",
   },
 ];
 
 // Enter your Education Details here
 export const eduDetails = [
   {
-    Position: "Frontend Development",
-    Company: "Udemy, YouTube, Google, Medium",
-    Location: "Online",
+    Position: "B.Tech(CSE)",
+    Company: "Kurukshetra University,",
+    Location: "Kurukshetra University, Thanesar, Haryana 136119",
     Type: "Full Time",
-    Duration: "Jan 2022 - Present",
-  },
-  {
-    Position: "Bachelor in Electronics & Communication",
-    Company: `Your College Name here`,
-    Location: "Bengaluru",
-    Type: "Full Time",
-    Duration: "Aug 2020 - Present",
-  },
+    Duration: "Jan 2014 - July 2018",
+  }
 ];
 
 // Tech Stack and Tools
