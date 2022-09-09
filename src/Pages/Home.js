@@ -69,7 +69,14 @@ function Home() {
           ref={h12}
           className="text-2xl bg-clip-text bg-gradient text-transparent md:text-4xl xl:text-5xl xl:leading-tight font-bold"
         >
+        <a
+          className="font-medium"
+          href="https://neeraj-kumar.vercel.app/"
+          target="_blank"
+          rel="noreferrer noopener"
+        >
           {name}
+          </a>
         </h1>
         <h2
           ref={h13}
