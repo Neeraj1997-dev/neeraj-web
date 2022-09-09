@@ -12,6 +12,7 @@ function Technologies() {
     redux,
     vue,
     aws,
+    docker,
     vscode,
     git,
     github,
@@ -57,6 +58,7 @@ function Technologies() {
       </section>
       <section className="grid grid-cols-4 md:grid-cols-5 lg:grid-cols-6 items-center gap-10 pt-6">
         <img src={aws} title="Git" alt="Aws" />
+        <img src={docker} title="Docker" alt="Aws" />
         <img src={github} title="Github" alt="Github" />
       </section>
     </main>

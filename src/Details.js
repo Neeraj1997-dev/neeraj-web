@@ -23,6 +23,7 @@ import npm from "./assets/techstack/npm.png";
 import postman from "./assets/techstack/postman.png";
 import figma from "./assets/techstack/figma.png";
 import aws from "./assets/techstack/aws.png";
+import docker from "./assets/techstack/docker.png";
 // Porject Images
 import projectImage1 from "./assets/projects/project1.jpg";
 import projectImage2 from "./assets/projects/project2.jpg";
@@ -108,7 +109,8 @@ export const techStackDetails = {
   git: git,
   github: github,
   figma: figma,
-  aws: aws
+  aws: aws,
+  docker: docker
 };
 
 // Enter your Project Details here
